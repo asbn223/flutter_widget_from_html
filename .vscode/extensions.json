@@ -1,5 +1,5 @@
 {
-  "recommendations": [
+  "recommendation": [
     "dart-code.flutter",
     "darkriszty.markdown-table-prettify",
     "foxundermoon.shell-format"
